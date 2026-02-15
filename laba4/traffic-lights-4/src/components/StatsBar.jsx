@@ -21,7 +21,7 @@ const StatsBar = ({ clicks, orientation, onOrientationChange }) => {
         
         <div className="controls-section">
           <button className="orientation-btn" onClick={handleToggle}>
-            {orientation === "vertical" ? "↔️ Горизонтально" : "↕️ Вертикально"}
+            {orientation === "vertical" ? "↔ Горизонтально" : "↕ Вертикально"}
           </button>
         </div>
       </div>

@@ -4,20 +4,20 @@
     "color": "#ff0000",
     "colorName": "red",
     "description": "Червоний",
-    "clickcount": 0
+    "clickcount": 11
   },
   {
     "id": 2,
     "color": "#ffff00",
     "colorName": "yellow",
     "description": "Жовтий",
-    "clickcount": 0
+    "clickcount": 22
   },
   {
     "id": 3,
     "color": "#00ff00",
     "colorName": "green",
     "description": "Зелений",
-    "clickcount": 0
+    "clickcount": 33
   }
 ]
