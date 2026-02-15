@@ -1,0 +1,24 @@
+.traffic-lights-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.traffic-lights-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #222;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.traffic-lights-container.vertical {
+  flex-direction: column;
+}
+
+.traffic-lights-container.horizontal {
+  flex-direction: row;
+}
